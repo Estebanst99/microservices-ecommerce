@@ -23,3 +23,11 @@ I
 Uusuarios-service/src/main/java/com/estebanst99/usuarios_service/security/JwtUtil.java,1\8\181cd9008511a53afa92030df7d2e2901b18f48b
 è
 _usuarios-service/src/main/java/com/estebanst99/usuarios_service/UsuariosServiceApplication.java,2\c\2c3e8ba8703c7b5bcffe8f30b139b338aef35f45
+é
+^usuarios-service/src/main/java/com/estebanst99/usuarios_service/security/JwtRequestFilter.java,d\d\dd2199fa2b9129850a905f86c62df7e9e77abb2c
+å
+\usuarios-service/src/main/java/com/estebanst99/usuarios_service/security/SecurityConfig.java,c\c\ccff8009e8af142a56d31dad3e9aa7a606838f9d
+ã
+[usuarios-service/src/main/java/com/estebanst99/usuarios_service/service/UsuarioService.java,4\7\47caf845b4c5f9158ef5fc2b89e78ae99df00353
+ë
+ausuarios-service/src/main/java/com/estebanst99/usuarios_service/controller/UsuarioController.java,a\b\abd02a24c102fa5948afd70b227449bb734729c7
